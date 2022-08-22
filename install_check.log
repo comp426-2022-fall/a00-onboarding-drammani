@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Davins-MBP.lan 21.4.0 Darwin Kernel Version 21.4.0: Fri Mar 18 00:46:32 PDT 2022; root:xnu-8020.101.4~15/RELEASE_ARM64_T6000 arm64
+SHELL:	[/bin/zsh]
+GIT:	[/opt/homebrew/bin/git] git version 2.35.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Feb 12 2022 04:28:00)
+CURL:	[/Users/davinrammani/opt/anaconda3/bin/curl] curl 7.82.0 (arm64-apple-darwin20.0.0) libcurl/7.82.0 OpenSSL/1.1.1o zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/davinrammani/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
